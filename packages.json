@@ -2,6 +2,22 @@
     {
         "package": "wrkshputils",
         "url": "https://github.com/ucanr-igis/wrkshputils"
+    },
+    {
+        "package": "degday",
+        "url": "https://github.com/ucanr-igis/degday"
+    },
+    {
+        "package": "caladaptr",
+        "url": "https://github.com/ucanr-igis/caladaptr"
+    },
+    {
+        "package": "caladaptr.apps",
+        "url": "https://github.com/ucanr-igis/caladaptr.apps"
+    },
+    {
+        "package": "uasimg",
+        "url": "https://github.com/ucanr-igis/uasimg"
     }
-
 ]
+
