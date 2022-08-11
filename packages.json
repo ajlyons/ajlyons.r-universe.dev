@@ -4,6 +4,10 @@
         "url": "https://github.com/ucanr-igis/wrkshputils"
     },
     {
+        "package": "slideutils",
+        "url": "https://github.com/ucanr-igis/slideutils"
+    },
+    {
         "package": "degday",
         "url": "https://github.com/ucanr-igis/degday"
     },
